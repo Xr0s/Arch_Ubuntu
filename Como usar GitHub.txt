@@ -11,6 +11,6 @@ Comandos basicos GitHub:
 -cd (Diretório da pasta criada pelo Git no pc) //acessa o diretorio do git local
 -Coloca os arquivos na pasta do Git local
 -git add *   //adiciona a referencia de todos os arquivos da pasta do git local
--git commit -m "comentario sobre a atualização"  //verifica todas os arquivos diferentes aos do git do site e os prepara
+-git commit -m "comentario sobre a atualização obrigatorio"  //verifica todas os arquivos diferentes aos do git do site e os prepara
 -git push   //adiciona-os ao site
 -git pull  //insere os arquivos do git do site que diferem do git local, no git local
