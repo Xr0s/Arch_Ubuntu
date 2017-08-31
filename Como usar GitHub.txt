@@ -3,9 +3,11 @@ Instalação GitHub:
 $ git config --global user.name "YOUR NAME" // no meu caso "Xr0s"
 $ git config --global user.email "YOUR EMAIL ADDRESS" // "italojcm@dcomp.ufs.br"
 
-Comandos básicos GitHub:
+Criar repositorio GitHub:
 -Cria um repositório pelo site do GitHub
 -git clone (URL do repositorio no site)  //baixa o repositório do git para o pc
+
+Comandos basicos GitHub:
 -cd (Diretório da pasta criada pelo Git no pc) //acessa o diretorio do git local
 -Coloca os arquivos na pasta do Git local
 -git add *   //adiciona a referencia de todos os arquivos da pasta do git local
